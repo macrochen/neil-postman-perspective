@@ -57,7 +57,7 @@
 
 ## 文件结构
 ```
-/Users/shi/.agents/skills/neil-postman-perspective/
+<skills-root>/neil-postman-perspective/
 ├── SKILL.md                           # 主文件
 ├── references/
 │   ├── research/                      # 调研资料

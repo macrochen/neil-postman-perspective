@@ -2,7 +2,7 @@
 
 ## 蒸馏完成
 Neil Postman 的思维框架已成功蒸馏为 Skill，位于：
-`/Users/shi/.agents/skills/neil-postman-perspective/`
+`<skills-root>/neil-postman-perspective/`
 
 ## 核心文件
 - **SKILL.md**：完整的思维操作系统（14,525字节）
